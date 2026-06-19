@@ -22,4 +22,4 @@ python password_checker.py
 - Security thinking
 
 ## Author
-Prasanna — Aspiring Cybersecurity Professional
+ Pandi Prasanna — Aspiring Cybersecurity Professional
